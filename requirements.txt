@@ -1,2 +1,2 @@
 Python 3.6 or higher
-sreamlit
+streamlit
