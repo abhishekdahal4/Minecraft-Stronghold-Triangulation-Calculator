@@ -35,8 +35,8 @@ For a deep-dive breakdown of the vector kinematics, check out the full [Technica
 ```text
 minecraft-stronghold-calculator/
 │
-├── calculator.py       # Core logic and CLI interface
-├── PAPER.md            # Formal technical paper detailing the math
+├── calculator.py       # Core logic
+├── calculator_web.py       # Web Interface
 └── README.md           # Project documentation
 ```
 
