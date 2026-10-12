@@ -5,7 +5,7 @@ Minecraft Stronghold Triangulation Calculator — Streamlit Web UI
 
 import streamlit as st
 import math
-from stronghold import calculate_direction_vector, calculate_intersection, calculate_distance
+from calculator import calculate_direction_vector, calculate_intersection, calculate_distance
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
