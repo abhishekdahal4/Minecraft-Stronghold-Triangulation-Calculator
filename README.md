@@ -2,8 +2,6 @@
 
 A precise, math-driven utility designed to calculate exact *Minecraft* stronghold coordinates using dual Eye of Ender throws. By modeling player orientation angles as 2D vector rays, this tool solves a system of linear equations via **Cramer's rule** to pinpoint structures with sub-block accuracy.
 
-🌐 **Live Web Tool:** [Link to your hosted website here]
-
 ---
 
 ## Features
@@ -27,7 +25,7 @@ A precise, math-driven utility designed to calculate exact *Minecraft* stronghol
 3. **Solving via Cramer's Rule:**
    Setting two throw rays equal to each other yields a $2 \times 2$ linear system solved efficiently using determinants.
 
-For a deep-dive breakdown of the vector kinematics, check out the full [Technical Paper (PAPER.md)](./PAPER.md).
+For a deep-dive breakdown of the vector kinematics, check out the full [Technical Paper (PAPER.md)](./PAPER.md). (coming soon)
 
 ---
 
