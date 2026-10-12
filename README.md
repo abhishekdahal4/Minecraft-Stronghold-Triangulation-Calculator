@@ -79,4 +79,3 @@ Yaw angle: -30
 
 ## Author
 **Abhishek Dahal**  
-Cullen College of Engineering, University of Houston
