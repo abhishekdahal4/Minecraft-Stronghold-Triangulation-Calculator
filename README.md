@@ -50,7 +50,7 @@ minecraft-stronghold-calculator/
 ### Installation & Execution
 Clone the repository and run the script locally:
 ```bash
-git clone https://github.com/abhishekdahal4/minecraft-stronghold-calculator.git
+git clone https://github.com/abhishekdahal4/Minecraft-Stronghold-Triangulation-Calculator.git
 cd minecraft-stronghold-calculator
 python3 calculator.py
 ```
